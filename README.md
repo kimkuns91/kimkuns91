@@ -12,6 +12,7 @@ I'm the Co-founder of [Lyncare](https://lyncare.co.kr) and am the Chief Technica
 - [Linkedin](https://linkedin.com/in/kun-woo-kim-b39727225)
 - [Email](kimkuns98@gmail.com)
 
+ <a href="https://app.daily.dev/kunwookim"><img align="right" src="https://raw.githubusercontent.com/kunwookim/kunwookim/devcard/devcard.svg" width="256" alt="Kun Woo Kim's Dev Card"/></a>
 ---
 
 ## Languages and Tools
