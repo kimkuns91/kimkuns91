@@ -15,6 +15,12 @@ I'm the Co-founder of [Lyncare](https://lyncare.co.kr) and am the Chief Technica
  <a href="https://app.daily.dev/kunwookim"><img align="right" src="https://raw.githubusercontent.com/kunwookim/kunwookim/devcard/devcard.svg" width="256" alt="Kun Woo Kim's Dev Card"/></a>
 ---
 
+![Metrics](https://raw.githubusercontent.com/kimkuns91/kimkuns91/github-metrics/github-metrics.svg)
+![Most used languages](https://raw.githubusercontent.com/kimkuns91/kimkuns91/github-metrics/language.svg)
+![Achievements](https://raw.githubusercontent.com/kimkuns91/kimkuns91/github-metrics/achievements.svg)
+
+---
+
 ## Languages and Tools
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
