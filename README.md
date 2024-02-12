@@ -1,4 +1,4 @@
-### Hi There! Welcome to my Github Page :wave:
+### Hi There! Welcome to My Github Page :wave:
 
 ---
 
