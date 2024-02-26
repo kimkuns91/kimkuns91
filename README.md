@@ -11,8 +11,7 @@ I'm the Co-founder of [Lyncare](https://lyncare.co.kr) and am the Chief Technica
 - [Website](https://whitemouse.dev)
 - [Linkedin](https://linkedin.com/in/kun-woo-kim-b39727225)
 - [Email](kimkuns98@gmail.com)
-
- <a href="https://app.daily.dev/kunwookim"><img align="right" src="https://raw.githubusercontent.com/kunwookim/kunwookim/devcard/devcard.svg" width="256" alt="Kun Woo Kim's Dev Card"/></a>
+<a href="https://app.daily.dev/kunwookim"><img align="right" src="https://api.daily.dev/devcards/v2/4VsXt38l1vAeUTbhu5Qj0.png?r=3t0" width="256" alt="Kun Woo Kim's Dev Card"/></a>
 ---
 
 ![Metrics](https://raw.githubusercontent.com/kimkuns91/kimkuns91/github-metrics/github-metrics.svg)
