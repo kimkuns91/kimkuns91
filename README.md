@@ -13,7 +13,7 @@ I'm the Co-founder of [Lyncare](https://lyncare.co.kr) and am the Chief Technica
 - [Email](kimkuns98@gmail.com)
 <a href="https://app.daily.dev/kunwookim"><img align="right" src="https://api.daily.dev/devcards/v2/4VsXt38l1vAeUTbhu5Qj0.png?r=3t0" width="256" alt="Kun Woo Kim's Dev Card"/></a>
 ---
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimkuns)](https://solved.ac/kimkuns/)
 ---
 
 ## Languages and Tools
