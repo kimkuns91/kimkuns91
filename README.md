@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=Kun%20Woo%20Kim's%20GITHUB&fontSize=40&animation=twinkling&fontAlign=68&fontAlignY=36)
 
 <div align="center">
+  <a href="https://portfolio.whitemouse.dev">
+    <img src="og-image.png" alt="WhiteMouseDev Portfolio" width="800" style="border-radius: 10px; margin: 20px 0;"/>
+  </a>
+  
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6994CDEE&center=true&vCenter=true&width=435&lines=4%2B+years+of+coding+experience;Full+Stack+Developer" alt="Typing SVG" />
 </div>
 
@@ -18,11 +22,35 @@ const profile = {
 };
 ```
 
+<div align="right">
+  <a href="https://app.daily.dev/kunwookim">
+    <img src="https://api.daily.dev/devcards/v2/4VsXt38l1vAeUTbhu5Qj0.png?r=3t0" width="256" alt="Kun Woo Kim's Dev Card" align="right" style="margin-top: -160px;"/>
+  </a>
+</div>
+
 ## 🌐 Connect with me
 
 [![Website](https://img.shields.io/badge/WHITEMOUSE.DEV-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://portfolio.whitemouse.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kun-woo-kim-b39727225)
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:kimkuns98@gmail.com)
+
+## 📊 GitHub Stats & Activities
+
+### 🏆 Baekjoon Online Judge
+<div align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimkuns" alt="Solved.ac Profile" />
+  <img src="http://mazandi.herokuapp.com/api?handle=kimkuns&theme=warm" alt="mazandi profile" />
+</div>
+
+### 📈 Most Used Languages
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimkuns91&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Most Used Languages" />
+</div>
+
+### 🌟 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kimkuns91&theme=onestar&no-frame=true&row=1&column=6" alt="trophy" />
+</div>
 
 ## 🛠 Tech Stack
 
@@ -60,21 +88,3 @@ const profile = {
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-## 📊 GitHub Stats & Activities
-
-### 🏆 Baekjoon Online Judge
-<div align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimkuns" alt="Solved.ac Profile" />
-  <img src="http://mazandi.herokuapp.com/api?handle=kimkuns&theme=warm" alt="mazandi profile" />
-</div>
-
-### 📈 Most Used Languages
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimkuns91&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Most Used Languages" />
-</div>
-
-### 🌟 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kimkuns91&theme=onestar&no-frame=true&row=1&column=6" alt="trophy" />
-</div>
