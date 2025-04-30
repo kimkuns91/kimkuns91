@@ -24,24 +24,6 @@ const profile = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kun-woo-kim-b39727225)
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:kimkuns98@gmail.com)
 
-## 📊 GitHub Stats & Activities
-
-### 🏆 Baekjoon Online Judge
-<div align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimkuns" alt="Solved.ac Profile" />
-  <img src="http://mazandi.herokuapp.com/api?handle=kimkuns&theme=warm" alt="mazandi profile" />
-</div>
-
-### 📈 Most Used Languages
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimkuns91&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Most Used Languages" />
-</div>
-
-### 🌟 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kimkuns91&theme=onestar&no-frame=true&row=1&column=6" alt="trophy" />
-</div>
-
 ## 🛠 Tech Stack
 
 ### 💻 Programming Languages
@@ -78,3 +60,21 @@ const profile = {
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+## 📊 GitHub Stats & Activities
+
+### 🏆 Baekjoon Online Judge
+<div align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimkuns" alt="Solved.ac Profile" />
+  <img src="http://mazandi.herokuapp.com/api?handle=kimkuns&theme=warm" alt="mazandi profile" />
+</div>
+
+### 📈 Most Used Languages
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimkuns91&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Most Used Languages" />
+</div>
+
+### 🌟 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kimkuns91&theme=onestar&no-frame=true&row=1&column=6" alt="trophy" />
+</div>
