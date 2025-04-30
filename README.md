@@ -18,12 +18,6 @@ const profile = {
 };
 ```
 
-<div align="right">
-  <a href="https://app.daily.dev/kunwookim">
-    <img src="https://api.daily.dev/devcards/v2/4VsXt38l1vAeUTbhu5Qj0.png?r=3t0" width="256" alt="Kun Woo Kim's Dev Card" align="right" style="margin-top: -160px;"/>
-  </a>
-</div>
-
 ## 🌐 Connect with me
 
 [![Website](https://img.shields.io/badge/WHITEMOUSE.DEV-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://portfolio.whitemouse.dev)
