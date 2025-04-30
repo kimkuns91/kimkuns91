@@ -6,21 +6,24 @@
 
 ## 👨‍💻 About Me
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <div>
-    > Full Stack Developer who loves creating innovative web solutions
+<div align="left">
 
-    - 🔭 Project Managers at [Lyncare](https://lyncare.co.kr)
-    - 🚀 Full Stack Developer at [Wevibe](https://wevibe.co.kr)
-    - 🌱 Passionate about Web Development and Application Design
-    - 🏠 Based in Seoul, Republic of Korea
-  </div>
+```shell
+> Full Stack Developer who loves creating innovative web solutions
+> Who am I
 
-  <div>
-    <a href="https://app.daily.dev/kunwookim">
-      <img src="https://api.daily.dev/devcards/v2/4VsXt38l1vAeUTbhu5Qj0.png?r=3t0" width="256" alt="Kun Woo Kim's Dev Card"/>
-    </a>
-  </div>
+🧑‍💻 Project Managers at [Lyncare](https://lyncare.co.kr)
+🚀 Full Stack Developer at [Wevibe](https://wevibe.co.kr)
+🌱 Passionate about Web Development and Application Design
+🏠 Based in Seoul, Republic of Korea
+```
+
+</div>
+
+<div align="right">
+  <a href="https://app.daily.dev/kunwookim">
+    <img src="https://api.daily.dev/devcards/v2/4VsXt38l1vAeUTbhu5Qj0.png?r=3t0" width="256" alt="Kun Woo Kim's Dev Card" align="right" style="margin-top: -140px;"/>
+  </a>
 </div>
 
 ## 🌐 Connect with me
