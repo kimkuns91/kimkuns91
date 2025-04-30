@@ -38,6 +38,7 @@ const profile = {
 > 개발 여정과 기술적 인사이트를 공유합니다
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kimkuns)](https://velog.io/@kimkuns)
+
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@kimkuns)
 
 ---
@@ -106,3 +107,5 @@ const profile = {
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&section=footer)
