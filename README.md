@@ -1,7 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=Kun%20Woo%20Kim's%20GITHUB&fontSize=40&animation=twinkling&fontAlign=68&fontAlignY=36)
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6994CDEE&center=true&vCenter=true&width=435&lines=4%2B+years+of+coding+experience;Full+Stack+Developer" alt="Typing SVG" />
+
+---
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6994CDEE&center=true&vCenter=true&width=435&lines=4%2B+years+of+coding+experience;Full+Stack+Developer" alt="Typing SVG" />
+
   <a href="https://portfolio.whitemouse.dev">
     <img src="og-image.png" alt="WhiteMouseDev Portfolio" width="800" style="border-radius: 10px; margin: 20px 0;"/>
   </a>
