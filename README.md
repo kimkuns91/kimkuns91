@@ -1,12 +1,19 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=Kun%20Woo%20Kim's%20GITHUB&fontSize=40&animation=twinkling&fontAlign=68&fontAlignY=36)
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6994CDEE&center=true&vCenter=true&width=435&lines=4%2B+years+of+coding+experience;Full+Stack+Developer" alt="Typing SVG" />
   <a href="https://portfolio.whitemouse.dev">
     <img src="og-image.png" alt="WhiteMouseDev Portfolio" width="800" style="border-radius: 10px; margin: 20px 0;"/>
   </a>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6994CDEE&center=true&vCenter=true&width=435&lines=4%2B+years+of+coding+experience;Full+Stack+Developer" alt="Typing SVG" />
+  <p align="center">
+    👆 Click the banner to visit my portfolio website
+  </p>
+  
+
 </div>
+
+---
 
 ## 👨‍💻 About Me
 
@@ -21,18 +28,23 @@ const profile = {
   location: '🏠 Based in Seoul, Republic of Korea'
 };
 ```
+---
 
-<div align="right">
-  <a href="https://app.daily.dev/kunwookim">
-    <img src="https://api.daily.dev/devcards/v2/4VsXt38l1vAeUTbhu5Qj0.png?r=3t0" width="256" alt="Kun Woo Kim's Dev Card" align="right" style="margin-top: -160px;"/>
-  </a>
-</div>
+## 📚 Blog & Articles
+> 개발 여정과 기술적 인사이트를 공유합니다
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kimkuns)](https://velog.io/@kimkuns)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@kimkuns)
+
+---
 
 ## 🌐 Connect with me
 
 [![Website](https://img.shields.io/badge/WHITEMOUSE.DEV-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://portfolio.whitemouse.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kun-woo-kim-b39727225)
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:kimkuns98@gmail.com)
+
+---
 
 ## 📊 GitHub Stats & Activities
 
@@ -51,6 +63,8 @@ const profile = {
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kimkuns91&theme=onestar&no-frame=true&row=1&column=6" alt="trophy" />
 </div>
+
+---
 
 ## 🛠 Tech Stack
 
